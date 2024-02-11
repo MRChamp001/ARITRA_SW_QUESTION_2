@@ -4,7 +4,7 @@
   <name>vessel_ctrl_setup</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="imfine@todo.todo">imfine</maintainer>
+  <maintainer email="MRCHAMP@todo.todo">imfine</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
